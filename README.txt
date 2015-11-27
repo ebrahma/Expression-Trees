@@ -1,0 +1,3 @@
+Expression Translator repeatedly takes in a postfix expression inputed by the user and outputs the same expression in postfix, prefix, and parenthesized infix notation. The inputed expression is stored as a tree and traversed in postOrder, preOrder, and inOrder in order to get the appropriate outputed expressions. If an invalid amount of operators or operands are in the expression, an error is printed. 
+
+In order to try Expression Translator, please run ExpressionTranslator.java.
